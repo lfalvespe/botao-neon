@@ -22,6 +22,7 @@ header {
     padding: 8px;
     text-align: center;
     color: white;
+    margin-top:5px
     margin-bottom: 40px;
 }
 
@@ -156,7 +157,7 @@ p {
 footer{
     background-color: black;
     color: white;
-    line-height: 17px;
+    line-height: 18px;
     padding: 10px;
 }
 
