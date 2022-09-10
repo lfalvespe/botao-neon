@@ -143,7 +143,7 @@ h2 {
     color: rgb(103, 34, 124);
     background: #cb22ff;
     box-shadow: 0 0 10px #cb22ff, 0 0 40px #cb22ff, 0 0 80px #cb22ff;
-    transition-delay: .3s;
+    transition-delay: .2s;
 }
 
 p {
