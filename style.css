@@ -1,8 +1,19 @@
-@media screen and (min-width:858px) {
-    .codigo-botao {
-        border-right: 1px dashed black;
+@media screen and (max-width:858px) {
+    .texto-desktop {
+    display: none;
     }
 }
+
+@media screen and (min-width:858px) {
+    .codigo-botao {
+    border-right: 1px dashed black;
+    }
+
+    .texto-mobile {
+    display: none;
+    }
+}
+
 * {
     margin: 0px;
     padding: 0px;
