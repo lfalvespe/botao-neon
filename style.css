@@ -78,6 +78,7 @@ h2 {
 
 .botao {
     padding: 13px;
+    border: none;
     border-radius: 10px;
     text-align: center;
     text-transform: uppercase;
