@@ -6,7 +6,7 @@
 * {
     margin: 0px;
     padding: 0px;
-    box-sizing: border-box;
+   
 }
 
 
@@ -16,7 +16,6 @@ body{
 }
 
 header {
-    background-color: yellow;
     display: flex;
     justify-content: space-between;
     column-gap: 2px;
@@ -38,7 +37,6 @@ h2 {
 .titulo {
     background-image: linear-gradient(to right, #0e7fdc, #0c5fa3, #255784, rgb(2, 2, 48) );
     width: 80vw;
-    height: 50px;
     padding: 10px;
     border-radius: 10px;
     font-size: 1.5em;
@@ -52,7 +50,7 @@ img {
 
 .container {
     width: 80vw;
-    height: 60vh;
+    height: 70vh;
     display: flex;
     flex-flow: row wrap;
     justify-content: space-around;
