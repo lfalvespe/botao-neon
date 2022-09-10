@@ -1,16 +1,16 @@
 @media screen and (max-width:858px) {
     .texto-desktop {
-    display: none;
+        display: none;
     }
 }
 
 @media screen and (min-width:858px) {
     .codigo-botao {
-    border-right: 1px dashed black;
+        border-right: 1px dashed black;
     }
 
     .texto-mobile {
-    display: none;
+        display: none;
     }
 }
 
