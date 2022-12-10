@@ -20,8 +20,8 @@ header {
     column-gap: 2px;
     text-align: center;
     color: white;
-    margin-bottom: 20px;
-    padding: 15px 5PX;
+    padding: 20px;
+    
 }
 
 .titulo {
@@ -39,15 +39,15 @@ header #logo {
 }
 
 h2 {
-    margin-bottom: 30px;
     text-align: center;
     font-size: 1em;
     text-shadow: 1px 1px 1px rgba(255, 255, 255, 0.389);
-    background-color:rgb(223, 199, 168);
-    padding: 5px;
+    background-color:rgb(180, 240, 255);
+    padding: 10px;
 }
 
 .container {
+    margin: 20px 10px;
     display: flex;
     flex-flow: row wrap;
     justify-content: space-around;
@@ -55,7 +55,6 @@ h2 {
     align-self: center;
     padding: 20px;
     row-gap: 30px;
-    margin: 0px 10px 20px 10px;
     text-align: center;
     background-color: rgba(9, 5, 31, 0.9);
     border-radius: 30px;
@@ -183,7 +182,7 @@ footer a:hover {
 }
 
 footer img {
-    opacity: 90%; 
+    opacity: 70%; 
   }
 
 footer #links {
@@ -211,9 +210,7 @@ footer #links img {
     }
 
     header {
-        margin-bottom: 5px;
-        padding-top: 10px;
-        padding-bottom: 6px;
+      
     }
 
     h2 {
@@ -222,6 +219,7 @@ footer #links img {
 
     footer {
         margin-top: 20px;
+        margin-bottom: 20px;
     }
 }
 
